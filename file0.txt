@@ -1,2 +1,6 @@
 my first line
+
 Bob -- Second line
+
+Alice -- Second line
+>>>>>>> 8ef9b62b2b8589eb26eb187a058d1e53e2f4cf01
